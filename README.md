@@ -13,3 +13,5 @@ https://slachelier.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Shauna Lachelier
+
+### ©️2019 Run Buddy, Inc 
